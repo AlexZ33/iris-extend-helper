@@ -62,4 +62,6 @@
 # Logs
 **/logs
 
+./.idea
+.idea
 
