@@ -10,6 +10,7 @@ require (
 	github.com/kataras/iris/v12 v12.1.8
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852
 	github.com/pelletier/go-toml v1.9.5
+	github.com/robfig/cron/v3 v3.0.1
 )
 
 require (
