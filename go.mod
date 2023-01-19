@@ -5,8 +5,10 @@ go 1.18
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/google/uuid v1.3.0
+	github.com/jinzhu/inflection v1.0.0
 	github.com/json-iterator/go v1.1.12
 	github.com/kataras/iris/v12 v12.1.8
+	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852
 	github.com/pelletier/go-toml v1.9.5
 )
 
@@ -39,7 +41,6 @@ require (
 	github.com/schollz/closestmatch v2.1.0+incompatible // indirect
 	github.com/sergi/go-diff v1.3.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
-	github.com/smartystreets/goconvey v1.7.2 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
 	github.com/valyala/fasthttp v1.44.0 // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
